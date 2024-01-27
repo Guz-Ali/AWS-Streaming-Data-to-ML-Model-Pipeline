@@ -1,0 +1,23 @@
+{
+    "customerID": "2863-IMQDR",
+    "gender": "Female",
+    "SeniorCitizen": "0",
+    "Partner": "No",
+    "Dependents": "No",
+    "tenure": "61",
+    "PhoneService": "Yes",
+    "MultipleLines": "Yes",
+    "InternetService": "DSL",
+    "OnlineSecurity": "Yes",
+    "OnlineBackup": "Yes",
+    "DeviceProtection": "Yes",
+    "TechSupport": "Yes",
+    "StreamingTV": "Yes",
+    "StreamingMovies": "Yes",
+    "Contract": "Two year",
+    "PaperlessBilling": "No",
+    "PaymentMethod": "Electronic check",
+    "MonthlyCharges": "89.65",
+    "TotalCharges": "5308.7",
+    "Churn": "No"
+}

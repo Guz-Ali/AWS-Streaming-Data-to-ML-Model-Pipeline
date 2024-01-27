@@ -1,0 +1,23 @@
+{
+    "customerID": "6994-FGRHH",
+    "gender": "Male",
+    "SeniorCitizen": "0",
+    "Partner": "Yes",
+    "Dependents": "Yes",
+    "tenure": "70",
+    "PhoneService": "Yes",
+    "MultipleLines": "No",
+    "InternetService": "Fiber optic",
+    "OnlineSecurity": "No",
+    "OnlineBackup": "Yes",
+    "DeviceProtection": "Yes",
+    "TechSupport": "Yes",
+    "StreamingTV": "Yes",
+    "StreamingMovies": "Yes",
+    "Contract": "One year",
+    "PaperlessBilling": "Yes",
+    "PaymentMethod": "Electronic check",
+    "MonthlyCharges": "106.15",
+    "TotalCharges": "7475.1",
+    "Churn": "No"
+}

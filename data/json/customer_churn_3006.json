@@ -1,0 +1,23 @@
+{
+    "customerID": "9685-WKZGT",
+    "gender": "Male",
+    "SeniorCitizen": "1",
+    "Partner": "No",
+    "Dependents": "No",
+    "tenure": "14",
+    "PhoneService": "Yes",
+    "MultipleLines": "Yes",
+    "InternetService": "Fiber optic",
+    "OnlineSecurity": "No",
+    "OnlineBackup": "No",
+    "DeviceProtection": "No",
+    "TechSupport": "No",
+    "StreamingTV": "No",
+    "StreamingMovies": "No",
+    "Contract": "Month-to-month",
+    "PaperlessBilling": "Yes",
+    "PaymentMethod": "Electronic check",
+    "MonthlyCharges": "74.95",
+    "TotalCharges": "1036.75",
+    "Churn": "Yes"
+}

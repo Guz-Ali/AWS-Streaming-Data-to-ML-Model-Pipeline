@@ -1,0 +1,23 @@
+{
+    "customerID": "4785-NKHCX",
+    "gender": "Male",
+    "SeniorCitizen": "1",
+    "Partner": "No",
+    "Dependents": "No",
+    "tenure": "5",
+    "PhoneService": "Yes",
+    "MultipleLines": "No",
+    "InternetService": "No",
+    "OnlineSecurity": "No internet service",
+    "OnlineBackup": "No internet service",
+    "DeviceProtection": "No internet service",
+    "TechSupport": "No internet service",
+    "StreamingTV": "No internet service",
+    "StreamingMovies": "No internet service",
+    "Contract": "Month-to-month",
+    "PaperlessBilling": "No",
+    "PaymentMethod": "Bank transfer (automatic)",
+    "MonthlyCharges": "20.05",
+    "TotalCharges": "94.15",
+    "Churn": "No"
+}

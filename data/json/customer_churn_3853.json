@@ -1,0 +1,23 @@
+{
+    "customerID": "7128-GGCNO",
+    "gender": "Male",
+    "SeniorCitizen": "0",
+    "Partner": "No",
+    "Dependents": "No",
+    "tenure": "46",
+    "PhoneService": "Yes",
+    "MultipleLines": "Yes",
+    "InternetService": "Fiber optic",
+    "OnlineSecurity": "No",
+    "OnlineBackup": "No",
+    "DeviceProtection": "No",
+    "TechSupport": "No",
+    "StreamingTV": "No",
+    "StreamingMovies": "No",
+    "Contract": "Month-to-month",
+    "PaperlessBilling": "No",
+    "PaymentMethod": "Bank transfer (automatic)",
+    "MonthlyCharges": "72.8",
+    "TotalCharges": "3249.4",
+    "Churn": "No"
+}

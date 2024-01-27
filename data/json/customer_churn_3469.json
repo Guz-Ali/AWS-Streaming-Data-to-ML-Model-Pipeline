@@ -1,0 +1,23 @@
+{
+    "customerID": "9402-ORRAH",
+    "gender": "Female",
+    "SeniorCitizen": "1",
+    "Partner": "No",
+    "Dependents": "No",
+    "tenure": "15",
+    "PhoneService": "Yes",
+    "MultipleLines": "No",
+    "InternetService": "Fiber optic",
+    "OnlineSecurity": "No",
+    "OnlineBackup": "No",
+    "DeviceProtection": "No",
+    "TechSupport": "No",
+    "StreamingTV": "Yes",
+    "StreamingMovies": "Yes",
+    "Contract": "Month-to-month",
+    "PaperlessBilling": "Yes",
+    "PaymentMethod": "Electronic check",
+    "MonthlyCharges": "91.5",
+    "TotalCharges": "1400.3",
+    "Churn": "No"
+}

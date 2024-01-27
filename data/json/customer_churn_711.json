@@ -1,0 +1,23 @@
+{
+    "customerID": "7929-DMBCV",
+    "gender": "Female",
+    "SeniorCitizen": "0",
+    "Partner": "Yes",
+    "Dependents": "No",
+    "tenure": "20",
+    "PhoneService": "Yes",
+    "MultipleLines": "No",
+    "InternetService": "Fiber optic",
+    "OnlineSecurity": "No",
+    "OnlineBackup": "No",
+    "DeviceProtection": "Yes",
+    "TechSupport": "Yes",
+    "StreamingTV": "No",
+    "StreamingMovies": "No",
+    "Contract": "Month-to-month",
+    "PaperlessBilling": "Yes",
+    "PaymentMethod": "Mailed check",
+    "MonthlyCharges": "81",
+    "TotalCharges": "1683.7",
+    "Churn": "No"
+}

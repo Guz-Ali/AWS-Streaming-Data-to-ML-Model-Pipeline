@@ -1,0 +1,23 @@
+{
+    "customerID": "0864-FVJNJ",
+    "gender": "Female",
+    "SeniorCitizen": "0",
+    "Partner": "Yes",
+    "Dependents": "Yes",
+    "tenure": "64",
+    "PhoneService": "Yes",
+    "MultipleLines": "Yes",
+    "InternetService": "Fiber optic",
+    "OnlineSecurity": "Yes",
+    "OnlineBackup": "Yes",
+    "DeviceProtection": "Yes",
+    "TechSupport": "Yes",
+    "StreamingTV": "Yes",
+    "StreamingMovies": "Yes",
+    "Contract": "One year",
+    "PaperlessBilling": "No",
+    "PaymentMethod": "Electronic check",
+    "MonthlyCharges": "113.35",
+    "TotalCharges": "7222.75",
+    "Churn": "No"
+}

@@ -1,0 +1,23 @@
+{
+    "customerID": "0177-PXBAT",
+    "gender": "Male",
+    "SeniorCitizen": "1",
+    "Partner": "Yes",
+    "Dependents": "No",
+    "tenure": "33",
+    "PhoneService": "Yes",
+    "MultipleLines": "Yes",
+    "InternetService": "Fiber optic",
+    "OnlineSecurity": "Yes",
+    "OnlineBackup": "No",
+    "DeviceProtection": "Yes",
+    "TechSupport": "Yes",
+    "StreamingTV": "Yes",
+    "StreamingMovies": "Yes",
+    "Contract": "Month-to-month",
+    "PaperlessBilling": "Yes",
+    "PaymentMethod": "Bank transfer (automatic)",
+    "MonthlyCharges": "109.9",
+    "TotalCharges": "3694.7",
+    "Churn": "No"
+}

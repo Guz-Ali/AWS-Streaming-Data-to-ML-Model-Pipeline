@@ -1,0 +1,23 @@
+{
+    "customerID": "7271-AJDTL",
+    "gender": "Female",
+    "SeniorCitizen": "0",
+    "Partner": "Yes",
+    "Dependents": "No",
+    "tenure": "55",
+    "PhoneService": "Yes",
+    "MultipleLines": "Yes",
+    "InternetService": "Fiber optic",
+    "OnlineSecurity": "No",
+    "OnlineBackup": "Yes",
+    "DeviceProtection": "Yes",
+    "TechSupport": "No",
+    "StreamingTV": "Yes",
+    "StreamingMovies": "No",
+    "Contract": "Month-to-month",
+    "PaperlessBilling": "Yes",
+    "PaymentMethod": "Credit card (automatic)",
+    "MonthlyCharges": "94.45",
+    "TotalCharges": "5073.1",
+    "Churn": "No"
+}

@@ -1,0 +1,23 @@
+{
+    "customerID": "2516-XSJKX",
+    "gender": "Female",
+    "SeniorCitizen": "0",
+    "Partner": "Yes",
+    "Dependents": "Yes",
+    "tenure": "41",
+    "PhoneService": "Yes",
+    "MultipleLines": "No",
+    "InternetService": "DSL",
+    "OnlineSecurity": "Yes",
+    "OnlineBackup": "Yes",
+    "DeviceProtection": "No",
+    "TechSupport": "Yes",
+    "StreamingTV": "Yes",
+    "StreamingMovies": "Yes",
+    "Contract": "Two year",
+    "PaperlessBilling": "No",
+    "PaymentMethod": "Electronic check",
+    "MonthlyCharges": "78.45",
+    "TotalCharges": "3126.45",
+    "Churn": "No"
+}

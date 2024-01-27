@@ -1,0 +1,23 @@
+{
+    "customerID": "2560-QTSBS",
+    "gender": "Female",
+    "SeniorCitizen": "0",
+    "Partner": "Yes",
+    "Dependents": "Yes",
+    "tenure": "72",
+    "PhoneService": "Yes",
+    "MultipleLines": "Yes",
+    "InternetService": "No",
+    "OnlineSecurity": "No internet service",
+    "OnlineBackup": "No internet service",
+    "DeviceProtection": "No internet service",
+    "TechSupport": "No internet service",
+    "StreamingTV": "No internet service",
+    "StreamingMovies": "No internet service",
+    "Contract": "One year",
+    "PaperlessBilling": "Yes",
+    "PaymentMethod": "Bank transfer (automatic)",
+    "MonthlyCharges": "23.3",
+    "TotalCharges": "1623.15",
+    "Churn": "No"
+}

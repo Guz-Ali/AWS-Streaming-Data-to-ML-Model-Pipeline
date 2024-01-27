@@ -1,0 +1,23 @@
+{
+    "customerID": "7615-ESMYF",
+    "gender": "Female",
+    "SeniorCitizen": "0",
+    "Partner": "Yes",
+    "Dependents": "No",
+    "tenure": "2",
+    "PhoneService": "No",
+    "MultipleLines": "No phone service",
+    "InternetService": "DSL",
+    "OnlineSecurity": "No",
+    "OnlineBackup": "No",
+    "DeviceProtection": "No",
+    "TechSupport": "No",
+    "StreamingTV": "Yes",
+    "StreamingMovies": "Yes",
+    "Contract": "Month-to-month",
+    "PaperlessBilling": "No",
+    "PaymentMethod": "Electronic check",
+    "MonthlyCharges": "44.6",
+    "TotalCharges": "97.1",
+    "Churn": "Yes"
+}

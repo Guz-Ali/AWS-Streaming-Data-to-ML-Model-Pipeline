@@ -1,0 +1,23 @@
+{
+    "customerID": "0707-HOVVN",
+    "gender": "Female",
+    "SeniorCitizen": "1",
+    "Partner": "No",
+    "Dependents": "No",
+    "tenure": "70",
+    "PhoneService": "Yes",
+    "MultipleLines": "Yes",
+    "InternetService": "DSL",
+    "OnlineSecurity": "No",
+    "OnlineBackup": "Yes",
+    "DeviceProtection": "Yes",
+    "TechSupport": "Yes",
+    "StreamingTV": "Yes",
+    "StreamingMovies": "No",
+    "Contract": "Two year",
+    "PaperlessBilling": "Yes",
+    "PaymentMethod": "Bank transfer (automatic)",
+    "MonthlyCharges": "75.5",
+    "TotalCharges": "5212.65",
+    "Churn": "No"
+}

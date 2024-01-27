@@ -1,0 +1,23 @@
+{
+    "customerID": "0947-MUGVO",
+    "gender": "Male",
+    "SeniorCitizen": "1",
+    "Partner": "Yes",
+    "Dependents": "No",
+    "tenure": "20",
+    "PhoneService": "Yes",
+    "MultipleLines": "No",
+    "InternetService": "Fiber optic",
+    "OnlineSecurity": "No",
+    "OnlineBackup": "Yes",
+    "DeviceProtection": "No",
+    "TechSupport": "No",
+    "StreamingTV": "No",
+    "StreamingMovies": "No",
+    "Contract": "Month-to-month",
+    "PaperlessBilling": "Yes",
+    "PaymentMethod": "Electronic check",
+    "MonthlyCharges": "73.65",
+    "TotalCharges": "1463.5",
+    "Churn": "Yes"
+}

@@ -1,0 +1,23 @@
+{
+    "customerID": "2632-UCGVD",
+    "gender": "Male",
+    "SeniorCitizen": "1",
+    "Partner": "Yes",
+    "Dependents": "No",
+    "tenure": "66",
+    "PhoneService": "Yes",
+    "MultipleLines": "Yes",
+    "InternetService": "Fiber optic",
+    "OnlineSecurity": "No",
+    "OnlineBackup": "No",
+    "DeviceProtection": "No",
+    "TechSupport": "Yes",
+    "StreamingTV": "Yes",
+    "StreamingMovies": "Yes",
+    "Contract": "Month-to-month",
+    "PaperlessBilling": "Yes",
+    "PaymentMethod": "Credit card (automatic)",
+    "MonthlyCharges": "100.05",
+    "TotalCharges": "6871.9",
+    "Churn": "Yes"
+}

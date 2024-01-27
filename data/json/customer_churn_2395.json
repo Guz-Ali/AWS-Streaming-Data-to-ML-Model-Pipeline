@@ -1,0 +1,23 @@
+{
+    "customerID": "6486-LHTMA",
+    "gender": "Female",
+    "SeniorCitizen": "1",
+    "Partner": "Yes",
+    "Dependents": "No",
+    "tenure": "31",
+    "PhoneService": "Yes",
+    "MultipleLines": "Yes",
+    "InternetService": "Fiber optic",
+    "OnlineSecurity": "No",
+    "OnlineBackup": "No",
+    "DeviceProtection": "Yes",
+    "TechSupport": "No",
+    "StreamingTV": "Yes",
+    "StreamingMovies": "No",
+    "Contract": "One year",
+    "PaperlessBilling": "Yes",
+    "PaymentMethod": "Electronic check",
+    "MonthlyCharges": "90.7",
+    "TotalCharges": "2835.5",
+    "Churn": "No"
+}

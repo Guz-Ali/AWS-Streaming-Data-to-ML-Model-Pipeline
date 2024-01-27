@@ -1,0 +1,23 @@
+{
+    "customerID": "2378-HTWFW",
+    "gender": "Male",
+    "SeniorCitizen": "1",
+    "Partner": "No",
+    "Dependents": "No",
+    "tenure": "35",
+    "PhoneService": "Yes",
+    "MultipleLines": "Yes",
+    "InternetService": "Fiber optic",
+    "OnlineSecurity": "Yes",
+    "OnlineBackup": "No",
+    "DeviceProtection": "No",
+    "TechSupport": "No",
+    "StreamingTV": "No",
+    "StreamingMovies": "Yes",
+    "Contract": "Month-to-month",
+    "PaperlessBilling": "No",
+    "PaymentMethod": "Credit card (automatic)",
+    "MonthlyCharges": "91",
+    "TotalCharges": "3180.5",
+    "Churn": "No"
+}

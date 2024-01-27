@@ -1,0 +1,23 @@
+{
+    "customerID": "0550-DCXLH",
+    "gender": "Male",
+    "SeniorCitizen": "0",
+    "Partner": "No",
+    "Dependents": "No",
+    "tenure": "13",
+    "PhoneService": "Yes",
+    "MultipleLines": "No",
+    "InternetService": "DSL",
+    "OnlineSecurity": "No",
+    "OnlineBackup": "Yes",
+    "DeviceProtection": "No",
+    "TechSupport": "Yes",
+    "StreamingTV": "Yes",
+    "StreamingMovies": "Yes",
+    "Contract": "Month-to-month",
+    "PaperlessBilling": "No",
+    "PaymentMethod": "Mailed check",
+    "MonthlyCharges": "73.35",
+    "TotalCharges": "931.55",
+    "Churn": "No"
+}

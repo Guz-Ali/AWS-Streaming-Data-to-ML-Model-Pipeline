@@ -1,0 +1,23 @@
+{
+    "customerID": "4139-SUGLD",
+    "gender": "Male",
+    "SeniorCitizen": "0",
+    "Partner": "Yes",
+    "Dependents": "Yes",
+    "tenure": "31",
+    "PhoneService": "No",
+    "MultipleLines": "No phone service",
+    "InternetService": "DSL",
+    "OnlineSecurity": "Yes",
+    "OnlineBackup": "No",
+    "DeviceProtection": "No",
+    "TechSupport": "Yes",
+    "StreamingTV": "No",
+    "StreamingMovies": "No",
+    "Contract": "Month-to-month",
+    "PaperlessBilling": "No",
+    "PaymentMethod": "Bank transfer (automatic)",
+    "MonthlyCharges": "35.4",
+    "TotalCharges": "1077.5",
+    "Churn": "Yes"
+}

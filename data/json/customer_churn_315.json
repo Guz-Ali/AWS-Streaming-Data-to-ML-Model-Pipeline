@@ -1,0 +1,23 @@
+{
+    "customerID": "5027-YOCXN",
+    "gender": "Male",
+    "SeniorCitizen": "0",
+    "Partner": "Yes",
+    "Dependents": "Yes",
+    "tenure": "51",
+    "PhoneService": "Yes",
+    "MultipleLines": "Yes",
+    "InternetService": "Fiber optic",
+    "OnlineSecurity": "Yes",
+    "OnlineBackup": "Yes",
+    "DeviceProtection": "No",
+    "TechSupport": "Yes",
+    "StreamingTV": "Yes",
+    "StreamingMovies": "Yes",
+    "Contract": "One year",
+    "PaperlessBilling": "No",
+    "PaymentMethod": "Credit card (automatic)",
+    "MonthlyCharges": "110.05",
+    "TotalCharges": "5686.4",
+    "Churn": "No"
+}

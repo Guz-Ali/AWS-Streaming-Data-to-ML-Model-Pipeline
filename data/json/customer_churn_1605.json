@@ -1,0 +1,23 @@
+{
+    "customerID": "7941-RCJOW",
+    "gender": "Male",
+    "SeniorCitizen": "0",
+    "Partner": "No",
+    "Dependents": "No",
+    "tenure": "65",
+    "PhoneService": "Yes",
+    "MultipleLines": "No",
+    "InternetService": "No",
+    "OnlineSecurity": "No internet service",
+    "OnlineBackup": "No internet service",
+    "DeviceProtection": "No internet service",
+    "TechSupport": "No internet service",
+    "StreamingTV": "No internet service",
+    "StreamingMovies": "No internet service",
+    "Contract": "Two year",
+    "PaperlessBilling": "Yes",
+    "PaymentMethod": "Credit card (automatic)",
+    "MonthlyCharges": "19.55",
+    "TotalCharges": "1218.65",
+    "Churn": "No"
+}

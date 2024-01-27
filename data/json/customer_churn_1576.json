@@ -1,0 +1,23 @@
+{
+    "customerID": "0993-OSGPT",
+    "gender": "Female",
+    "SeniorCitizen": "1",
+    "Partner": "Yes",
+    "Dependents": "No",
+    "tenure": "68",
+    "PhoneService": "Yes",
+    "MultipleLines": "No",
+    "InternetService": "DSL",
+    "OnlineSecurity": "No",
+    "OnlineBackup": "Yes",
+    "DeviceProtection": "Yes",
+    "TechSupport": "Yes",
+    "StreamingTV": "No",
+    "StreamingMovies": "No",
+    "Contract": "One year",
+    "PaperlessBilling": "Yes",
+    "PaymentMethod": "Bank transfer (automatic)",
+    "MonthlyCharges": "60.65",
+    "TotalCharges": "3975.9",
+    "Churn": "No"
+}

@@ -1,0 +1,23 @@
+{
+    "customerID": "4709-LKHYG",
+    "gender": "Female",
+    "SeniorCitizen": "0",
+    "Partner": "Yes",
+    "Dependents": "Yes",
+    "tenure": "29",
+    "PhoneService": "Yes",
+    "MultipleLines": "No",
+    "InternetService": "No",
+    "OnlineSecurity": "No internet service",
+    "OnlineBackup": "No internet service",
+    "DeviceProtection": "No internet service",
+    "TechSupport": "No internet service",
+    "StreamingTV": "No internet service",
+    "StreamingMovies": "No internet service",
+    "Contract": "One year",
+    "PaperlessBilling": "No",
+    "PaymentMethod": "Electronic check",
+    "MonthlyCharges": "20",
+    "TotalCharges": "540.05",
+    "Churn": "No"
+}

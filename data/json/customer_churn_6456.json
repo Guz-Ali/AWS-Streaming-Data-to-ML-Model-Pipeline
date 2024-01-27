@@ -1,0 +1,23 @@
+{
+    "customerID": "9174-IHETN",
+    "gender": "Female",
+    "SeniorCitizen": "0",
+    "Partner": "No",
+    "Dependents": "Yes",
+    "tenure": "50",
+    "PhoneService": "Yes",
+    "MultipleLines": "No",
+    "InternetService": "Fiber optic",
+    "OnlineSecurity": "No",
+    "OnlineBackup": "No",
+    "DeviceProtection": "No",
+    "TechSupport": "No",
+    "StreamingTV": "No",
+    "StreamingMovies": "No",
+    "Contract": "Two year",
+    "PaperlessBilling": "No",
+    "PaymentMethod": "Credit card (automatic)",
+    "MonthlyCharges": "70.35",
+    "TotalCharges": "3533.6",
+    "Churn": "No"
+}

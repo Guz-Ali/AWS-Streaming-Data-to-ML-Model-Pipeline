@@ -1,0 +1,23 @@
+{
+    "customerID": "3486-KHMLI",
+    "gender": "Male",
+    "SeniorCitizen": "0",
+    "Partner": "No",
+    "Dependents": "Yes",
+    "tenure": "21",
+    "PhoneService": "Yes",
+    "MultipleLines": "Yes",
+    "InternetService": "No",
+    "OnlineSecurity": "No internet service",
+    "OnlineBackup": "No internet service",
+    "DeviceProtection": "No internet service",
+    "TechSupport": "No internet service",
+    "StreamingTV": "No internet service",
+    "StreamingMovies": "No internet service",
+    "Contract": "Month-to-month",
+    "PaperlessBilling": "No",
+    "PaymentMethod": "Mailed check",
+    "MonthlyCharges": "24.7",
+    "TotalCharges": "467.15",
+    "Churn": "No"
+}

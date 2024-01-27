@@ -1,0 +1,23 @@
+{
+    "customerID": "2017-CCBLH",
+    "gender": "Female",
+    "SeniorCitizen": "0",
+    "Partner": "No",
+    "Dependents": "No",
+    "tenure": "8",
+    "PhoneService": "Yes",
+    "MultipleLines": "No",
+    "InternetService": "No",
+    "OnlineSecurity": "No internet service",
+    "OnlineBackup": "No internet service",
+    "DeviceProtection": "No internet service",
+    "TechSupport": "No internet service",
+    "StreamingTV": "No internet service",
+    "StreamingMovies": "No internet service",
+    "Contract": "Two year",
+    "PaperlessBilling": "No",
+    "PaymentMethod": "Mailed check",
+    "MonthlyCharges": "20",
+    "TotalCharges": "141.6",
+    "Churn": "No"
+}

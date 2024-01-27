@@ -1,0 +1,23 @@
+{
+    "customerID": "0323-XWWTN",
+    "gender": "Male",
+    "SeniorCitizen": "0",
+    "Partner": "No",
+    "Dependents": "Yes",
+    "tenure": "3",
+    "PhoneService": "Yes",
+    "MultipleLines": "Yes",
+    "InternetService": "No",
+    "OnlineSecurity": "No internet service",
+    "OnlineBackup": "No internet service",
+    "DeviceProtection": "No internet service",
+    "TechSupport": "No internet service",
+    "StreamingTV": "No internet service",
+    "StreamingMovies": "No internet service",
+    "Contract": "Two year",
+    "PaperlessBilling": "Yes",
+    "PaymentMethod": "Mailed check",
+    "MonthlyCharges": "26.4",
+    "TotalCharges": "121.25",
+    "Churn": "No"
+}

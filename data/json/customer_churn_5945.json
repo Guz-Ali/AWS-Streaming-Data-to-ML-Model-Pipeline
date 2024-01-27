@@ -1,0 +1,23 @@
+{
+    "customerID": "8421-WZOOW",
+    "gender": "Female",
+    "SeniorCitizen": "1",
+    "Partner": "Yes",
+    "Dependents": "Yes",
+    "tenure": "57",
+    "PhoneService": "Yes",
+    "MultipleLines": "No",
+    "InternetService": "Fiber optic",
+    "OnlineSecurity": "No",
+    "OnlineBackup": "Yes",
+    "DeviceProtection": "Yes",
+    "TechSupport": "Yes",
+    "StreamingTV": "Yes",
+    "StreamingMovies": "No",
+    "Contract": "Month-to-month",
+    "PaperlessBilling": "Yes",
+    "PaymentMethod": "Credit card (automatic)",
+    "MonthlyCharges": "95.3",
+    "TotalCharges": "5567.45",
+    "Churn": "No"
+}
