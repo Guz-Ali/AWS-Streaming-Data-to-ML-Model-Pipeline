@@ -5,6 +5,8 @@ Creating a ML model with real-time data using AWS SageMaker, Kinesis, and S3
 - The main purpose of this paper is to show how we approached the problem, the AWS architecture we came up with, and how the AWS systems make this convenient. Model accuracy is not a metric for this project.
 - End-to-end Architecture: AWS CLI (JSON Streaming Data) -> AWS Kinesis Data Streams -> AWS Data Firehose -> AWS S3 -> AWS EMR-Spark -> AWS S3 -> AWS Data Wrangler -> AWS SageMaker
 
+Review the research paper from here: https://github.com/Guz-Ali/AWS-Streaming-Data-to-ML-Model-Pipeline/blob/main/CSP554%20-%20Customer%20Churn%20Prediction%20using%20AWS%20Kinesis%20and%20SageMaker.pdf
+
 Useful Resources
 - AWS Command Line Interface (CLI) Setup: https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
 - AWS Command Line Interface (CLI) Configuration: https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html
